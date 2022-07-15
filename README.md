@@ -4,7 +4,7 @@ Bounty Hunter Essentials es una pagina web para una empresa ficticia, con el pro
 
 ## Tabla de Contenido
 
--[features](#features)
+- [features](#features)
 
 - [requirements](#requirements)
 

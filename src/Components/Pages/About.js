@@ -16,7 +16,7 @@ function About() {
           </p>
         </div>
         <div className="col">
-          <img src={Samus} alt="Samus.jepg" className="image-samus" />
+          <img src={Samus} alt="Samus.jepg" className="image-samus img-fluid" />
         </div>
       </div>
     </div>
